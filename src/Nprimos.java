@@ -14,9 +14,15 @@ public class Nprimos {
                 System.out.println(i);
 
             }
+            if  (i % 1000 == 0){
+                System.out.println("|---------------------------|");
+            }
             i++;
         }
 
-
     }
 }
+/*
+Tomás Sastre Cámara
+2n ASIX Web Applications Implementation
+ */
